@@ -13,9 +13,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	body {
 		background-color: #fff;
-		background-size: cover;
-		background-image: url("ecran.jpg");
-		background-repeat: no-repeat;
 		margin: 40px;
 		font: 13px/20px normal Helvetica, Arial, sans-serif;
 		color: #4F5155;
